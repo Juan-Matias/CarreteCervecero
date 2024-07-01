@@ -6,8 +6,8 @@
 # Mockup de la Aplicación
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/1.png" height="400px" style="margin-right: 10px;">
-    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/2.png" height="400px">
-    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/3.png" height="400px">
+    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/2.png" height="400px" style="margin-right: 10px;" >
+    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/3.png" height="400px" style="margin-right: 10px;" >
 </p>
 
 <p align="center" >
