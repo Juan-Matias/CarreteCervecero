@@ -2,8 +2,11 @@
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
 - Puede Ver nuestro Video en Canvas Con todas las funcionalidades
+<p>
   <a href="https://www.canva.com/design/DAGJSM64DNg/d8qXSntpDrGG3EHB4r6aQg/edit?utm_content=DAGJSM64DNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+</p>
+
 
 <p>
   <a href="https://www.linkedin.com/in/matias-ponce-02-beta/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
