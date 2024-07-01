@@ -4,8 +4,12 @@
 </p>
 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/2.png">
+     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/2.png" height="200px">
+    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/3.png" height="200px">
+    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/4.png" height="200px">
 </p>
+
+
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
 ## 💡 Descripción
