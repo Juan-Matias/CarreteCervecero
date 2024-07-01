@@ -22,8 +22,8 @@
 
 # Panel Principal / Home 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/4.png" height="400px">
-    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/5.png" height="400px">
+     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/5.png" height="400px">
+    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/6.png" height="400px">
 </p>
 
 # Reserva Producto / Carrito 
