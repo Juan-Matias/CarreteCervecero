@@ -20,18 +20,23 @@
 - Inicio de Sesion / Registrarse
 - Opcion de Entrar Como modo Invitado
 
+# Panel Principal / Home 
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/4.png" height="400px">
     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/5.png" height="400px">
-    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/6.png" height="400px">
 </p>
 
+# Reserva Producto / Carrito 
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/7.png" height="400px">
     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/8.png" height="400px">
-    <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/9.png" height="400px">
 </p>
 
+# Gestionar Cuenta
+<p align="center" >
+     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/9.png" height="400px">
+
+</p>
 
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
