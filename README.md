@@ -5,18 +5,19 @@
 
 # Mockup de la Aplicación
 
-- Pagina de inicio
+
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/1.png" height="400px">
 </p>
+- Pagina de inicio
 
-- Gestion de Credenciales / Inicio de Sesion / Registrarse
-- Opcion de Entrar Como modo Invitado
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/2.png" height="400px">
     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/3.png" height="400px">
     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/4.png" height="400px">
 </p>
+- Gestion de Credenciales / Inicio de Sesion / Registrarse
+- Opcion de Entrar Como modo Invitado
 
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/4.png" height="400px">
