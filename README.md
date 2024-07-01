@@ -20,24 +20,25 @@
 - Inicio de Sesion / Registrarse
 - Opcion de Entrar Como modo Invitado
 
-# Panel Principal / Home 
+# 🏠 Panel Principal / Home 
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/5.png" height="400px">
     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/6.png" height="400px">
 </p>
 
-# Reserva Producto / Carrito 
+# 🛒Reserva Producto / Carrito 
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/7.png" height="400px">
     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/8.png" height="400px">
 </p>
 
-# Gestionar Cuenta
+# 🙋‍♂️ Gestionar Cuenta
 <p align="center" >
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/9.png" height="400px">
 
 </p>
 
+## 🎯 Proyecto
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
 ## 💡 Descripción
@@ -56,7 +57,7 @@ El Sistema de Gestión de Reservas es una aplicación integral que permite a los
 - Diseño: Figma, StarUML, Draw.io
 - Gestión de Proyecto: Trello, Miro
 
-## ✔️ Contribuciones del Equipo:
+## 🤹‍♂️ Contribuciones del Equipo:
 El proyecto fue desarrollado en colaboración con mis compañeros, donde cada miembro aportó su experiencia y habilidades en diferentes áreas del desarrollo. Mi rol incluyó definir la estructura del proyecto, desarrollar funcionalidades clave y colaborar en la configuración y optimización del stack tecnológico.
 
 Este proyecto no solo mejoró la eficiencia operativa de Carrete Cervecero, sino que también brindó una mejor experiencia a sus clientes, reduciendo los errores y la sobrecarga administrativa asociada con el sistema manual de reservas.
