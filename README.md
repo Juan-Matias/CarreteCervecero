@@ -8,6 +8,10 @@ Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesi
 <a href="https://www.canva.com/design/DAGJSM64DNg/d8qXSntpDrGG3EHB4r6aQg/edit?utm_content=DAGJSM64DNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
 
+<p align="center" >
+     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/1715ae11ab8559408ee5ce923793d675f1470784/Background.png" >
+</p>
+
 
 
 # 🖌 Mockup de la Aplicación
